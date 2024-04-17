@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently exploring **DevOps & AI.**
 
-- 📫 How to reach me **www.linkedin.com/in/lanaradmilovic/**
+- 📫 How to reach me &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LanaRadmilovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lanaradmilovic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
